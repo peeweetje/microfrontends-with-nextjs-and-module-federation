@@ -32,6 +32,7 @@ const Nav = () => (
       }
       nav {
         text-align: center;
+        background-color:pink;
       }
       ul {
         display: flex;
